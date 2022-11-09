@@ -12,8 +12,7 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c++sharp&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
