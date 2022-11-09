@@ -2,7 +2,7 @@
 
 - 🏫 I am a Junior at Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
 - 🧑‍🎓 I’m currently learning: Computer Engineering (2/10)
-- Link to my [RESUME](https://lattes.cnpq.br/6030319028658067)
+- Link to my [resume](https://lattes.cnpq.br/6030319028658067)
 
 ## My github stats:
 <div align="center">
