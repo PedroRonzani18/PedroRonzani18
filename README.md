@@ -15,10 +15,8 @@
   
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Intellij IDEA" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
   
-  
-  
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c++sharp&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
   
 ##
 
