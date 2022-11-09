@@ -15,7 +15,7 @@
   
   	
   
-  <img src="(https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Intellij IDEA" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Intellij IDEA" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
   
   
   
