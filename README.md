@@ -19,6 +19,8 @@
   
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Intellij IDEA" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
   
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+  
 ##
 
 </div>
