@@ -3,7 +3,6 @@
 - 🏫 I am a Junior at Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
 - 🧑‍🎓 I’m currently learning: Computer Engineering (2/10)
 - Link to my [resume](https://lattes.cnpq.br/6030319028658067)
-- Link to my [Linkedin](https://www.linkedin.com/in/pedro-augusto-de-portilho-ronzani-39739a261/)
 
 ## My github stats:
 <div align="center">
