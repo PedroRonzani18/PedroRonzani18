@@ -21,7 +21,7 @@
   
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
   
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
   
 ##
 
