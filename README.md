@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🏫 I am a Junior at Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
-- 🧑‍🎓 I’m currently learning: Computer Engineering (3/10)
+- 🧑‍🎓 I’m currently learning: Computer Engineering (4/10)
 - Link to my [resume](https://lattes.cnpq.br/6030319028658067)
 
 ## My GiHub Stats
@@ -25,7 +25,13 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
   
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
-  
+
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+
 </div>
   
 ## Social Media
