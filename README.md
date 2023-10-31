@@ -9,8 +9,18 @@
   <a href="https://github.com/PedroRonzani18">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroRonzani18&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRonzani18&layout=compact&langs_count=7&theme=dark"/>
+  
 
 </div>
+
+## Technologies
+
+[![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)](https://fastify.dev/docs/latest/Guides/)
+[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/docs)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+  <img src= alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
+
   
 ## Languages
   
@@ -30,7 +40,6 @@
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
 
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Intellij IDEA" style="vertical-align:top; margin:6px 4px">
 
 </div>
   
