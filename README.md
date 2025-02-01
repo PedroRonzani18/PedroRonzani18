@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🏫 I am a Junior at Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
-- 🧑‍🎓 I’m currently learning: Computer Engineering (4/10)
+- 🧑‍🎓 I’m currently learning: Computer Engineering (6/10)
 - Link to my [resume](https://lattes.cnpq.br/6030319028658067)
 
 ## My GiHub Stats
